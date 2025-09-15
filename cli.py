@@ -1,5 +1,7 @@
-# from functions import get_todos, write_todos
+from functions import get_todos, write_todos
 
+import math
+import random
 import functions
 import time
 
