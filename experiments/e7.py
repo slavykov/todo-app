@@ -1,0 +1,26 @@
+import glob
+import csv
+import shutil
+import webbrowser
+
+# myfiles = glob.glob("files/*.txt")
+
+# for filepath in myfiles:
+#     with open(filepath, 'r') as file:
+#         print(file.read())
+
+# print(myfiles)
+
+# with open("../files/weather.csv", 'r') as file:
+#     data = list(csv.reader(file))
+
+# city = input("Enter a city: ")
+
+# for row in data[1:]:
+#     if row[0] == city:
+#         print(row[1])
+
+# shutil.make_archive("output", "zip", "files")
+
+user_term = input("Enter a search term: ").replace(" ", "+")
+webbrowser.open("https://www.google.com/search?q=" + user_term)
