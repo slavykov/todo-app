@@ -1,0 +1,13 @@
+output.zip
+__pycache__/functions.cpython-312.pyc
+bonuses/__pycache__/converters14.cpython-312.pyc
+bonuses/__pycache__/parsers14.cpython-312.pyc
+bug_fixing_exercises/__pycache__/parsers.cpython-312.pyc
+venv/
+bonuses/
+bug_fixing_exercises/
+coding_exercise/
+experiments/
+files/
+journal/
+modules/
