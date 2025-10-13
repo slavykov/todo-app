@@ -11,3 +11,6 @@ experiments/
 files/
 journal/
 modules/
+dist/
+build/
+gui.spec
